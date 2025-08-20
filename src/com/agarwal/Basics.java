@@ -8,6 +8,7 @@ public class Basics {
 //        }
 
         // While loop
+        // if you don't know how many times loop is gonna run
         int count1 = 1;
         while(count1 != 5){
             System.out.println(count1);
@@ -15,6 +16,7 @@ public class Basics {
         }
 
         // For Loop
+        // if you know how many times loop is gonna run
         for(int count = 1; count != 5; count++){
             System.out.println(count);
         }
