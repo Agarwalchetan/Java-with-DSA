@@ -7,7 +7,7 @@ public class Main {
         int a = 19;
 
         // Q: store a person's name
-        String name = "Kunal Kushwaha";
+        String name = "Chetan Agarwal";
 
         // Q: store 5 roll numbers
         int rno1 = 23;
